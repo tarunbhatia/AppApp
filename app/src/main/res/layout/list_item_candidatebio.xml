@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Candidate Bio"
+        android:id="@+id/candidateBioTextView"
+        android:editable="true" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Age "
+            android:id="@+id/candidateAgeTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Age"
+            android:layout_toRightOf="@id/candidateAgeTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateAgeEditText" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="         DOB "
+            android:id="@+id/candidateDOBTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DOB"
+            android:layout_toRightOf="@id/candidateDOBTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateDOBEditText"
+            android:editable="false"
+            android:textAlignment="center" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Residence "
+            android:id="@+id/candidateResidenceTextView" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Residence"
+            android:layout_toRightOf="@id/candidateResidenceTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateEditResidenceEditTextView" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Hometown "
+            android:id="@+id/candidateHometownTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hometown"
+            android:layout_toRightOf="@id/candidateHometownTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateEditHomeTownTextView" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Years in office "
+            android:id="@+id/candidateYearsInOfficeTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Years in office"
+            android:layout_toRightOf="@id/candidateYearsInOfficeTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateResidenceEditTextView" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Religion "
+            android:id="@+id/candidateReligionTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Religion"
+            android:layout_toRightOf="@id/candidateReligionTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateReligionEdiTextView" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/candidateImageView"
+        android:layout_row="0"
+        android:layout_column="1" />
+</GridLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:background="#cae6fb"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Age "
+        android:id="@+id/candidateAgeTextView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age"
+        android:layout_toRightOf="@id/candidateAgeTextView"
+        android:ellipsize="none"
+        android:singleLine="true"
+        android:id="@+id/candidateAgeEditText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="         DOB "
+        android:id="@+id/candidateDOBTextView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DOB"
+        android:layout_toRightOf="@id/candidateDOBTextView"
+        android:ellipsize="none"
+        android:singleLine="true"
+        android:id="@+id/candidateDOBEditText"
+        android:editable="false"
+        android:textAlignment="center" />
+</LinearLayout>

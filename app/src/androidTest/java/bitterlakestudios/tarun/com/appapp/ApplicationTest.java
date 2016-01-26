@@ -1,4 +1,4 @@
-package financialcalculators.tarun.com.appapp;
+package bitterlakestudios.tarun.com.appapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

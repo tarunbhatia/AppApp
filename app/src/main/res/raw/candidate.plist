@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>candidates</key>
+        <array>
+            <dict>
+                <key>bio</key>
+                <string>Jeb Bush was born on February 11th 1953 in Midland Texas to George and Barbara Bush. He earned a degree at University of Texas at Austin in Latin American Studies. Bush ran for govoner of Florida in 1998 and was reelected in 2002.</string>
+                <key>candidateKey</key>
+                <string>C10001</string>
+                <key>candidatePhoto</key>
+                <string>https://commons.wikimedia.org/wiki/File:Governor_of_Florida_Jeb_Bush_at_Southern_Republican_Leadership_Conference_May_2015_by_Michael_Vadon_16.jpg#/media/File:Governor_of_Florida_Jeb_Bush_at_Southern_Republican_Leadership_Conference_May_2015_by_Michael_Vadon_16.jpg</string>
+                <key>currentTown</key>
+                <string>Coral Gables, Florida</string>
+                <key>dateOfBirth</key>
+                <date>1953-02-11T08:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#AllInForJeb</string>
+                </array>
+                <key>homeTown</key>
+                <string>Midland, Texas</string>
+                <key>name</key>
+                <string>Jeb Bush</string>
+                <key>officialURL</key>
+                <string>https://jeb2016.com/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Roman Catholic</string>
+                <key>sortName</key>
+                <string>bush, jeb</string>
+                <key>twitterHandle</key>
+                <string>@JebBush</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10002</string>
+                <key>candidatePhoto</key>
+                <string>https://en.wikipedia.org/wiki/Ben_Carson#/media/File:Ben_Carson_at_CPAC_2015.jpg</string>
+                <key>currentTown</key>
+                <string>Detroit, Michigan</string>
+                <key>dateOfBirth</key>
+                <date>1951-09-18T07:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#BC2DC16</string>
+                </array>
+                <key>homeTown</key>
+                <string>Detroit, Michigan</string>
+                <key>name</key>
+                <string>Ben Carson</string>
+                <key>officialURL</key>
+                <string>https://bencarson.com</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>7th Day Adventist</string>
+                <key>sortName</key>
+                <string>carson, ben</string>
+                <key>twitterHandle</key>
+                <string>@realbencarson</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string>Chris was born in Newark, New Jersey on September 6, 1962 and went to college at the University of Delaware where he served on the student council. Chris and Mary Pat met at the University of Delaware and married in 1986. Chris was elected to office as Governor of New Jersey in 2009 and re-elected in 2013.</string>
+                <key>candidateKey</key>
+                <string>C10003</string>
+                <key>candidatePhoto</key>
+                <string>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Chris_Christie_April_2015.jpg/330px-Chris_Christie_April_2015.jpg</string>
+                <key>currentTown</key>
+                <string>Newark, New Jersey</string>
+                <key>dateOfBirth</key>
+                <date>1962-09-06T07:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#Christie2016</string>
+                </array>
+                <key>homeTown</key>
+                <string>Newark, New Jersey</string>
+                <key>name</key>
+                <string>Chris Christie</string>
+                <key>officialURL</key>
+                <string>https://www.chrischristie.com/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Roman Catholic</string>
+                <key>sortName</key>
+                <string>christie, chris</string>
+                <key>twitterHandle</key>
+                <string>@ChrisChristie</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string>Ted Cruz is the junior United States Senator from Texas. A Republican, Cruz was elected senator in 2012 and is the first Hispanic or Cuban American to serve as a U.S. Senator representing Texas. Cruz graduated cum laude from Princeton University with a Bachelor of Arts in Public Policy in 1992. Cruz then attended Harvard Law School, graduating magna cum laude in 1995 with a Juris Doctor degree.</string>
+                <key>candidateKey</key>
+                <string>C10004</string>
+                <key>candidatePhoto</key>
+                <string>https://upload.wikimedia.org/wikipedia/commons/8/87/Ted_Cruz,_official_portrait,_113th_Congress.jpg</string>
+                <key>currentTown</key>
+                <string>Houston, Texas</string>
+                <key>dateOfBirth</key>
+                <date>1970-12-22T08:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#CruzCountry</string>
+                    <string>#CruzCrew</string>
+                </array>
+                <key>homeTown</key>
+                <string>Houston, Texas</string>
+                <key>name</key>
+                <string>Ted Cruz</string>
+                <key>officialURL</key>
+                <string>https://www.tedcruz.org/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Christianity</string>
+                <key>sortName</key>
+                <string>cruz, ted</string>
+                <key>twitterHandle</key>
+                <string>@SenTedCruz</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10005</string>
+                <key>candidatePhoto</key>
+                <string>https://en.wikipedia.org/wiki/Carly_Fiorina#/media/File:Carly_fiorina_speaking.jpg</string>
+                <key>currentTown</key>
+                <string>Palo Alto, CA</string>
+                <key>dateOfBirth</key>
+                <date>1954-09-06T07:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#Carly2016</string>
+                </array>
+                <key>homeTown</key>
+                <string>Austin, Texas</string>
+                <key>name</key>
+                <string>Carly Fiorina</string>
+                <key>officialURL</key>
+                <string>https://carlyforpresident.com/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Nondenominational Christianity</string>
+                <key>sortName</key>
+                <string>fiorina, carly</string>
+                <key>twitterHandle</key>
+                <string>@carlyfiorina</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string>Gilmore served as an Army intelligence officer following his graduation from the University of Virginia in 1971, then later graduated from the university's law school and would go on to serve as a county prosecutor before his statewide election as attorney general in 1993.</string>
+                <key>candidateKey</key>
+                <string>C10006</string>
+                <key>candidatePhoto</key>
+                <string>https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Jim_Gilmore_2015.jpg/330px-Jim_Gilmore_2015.jpg</string>
+                <key>currentTown</key>
+                <string>Virginia</string>
+                <key>dateOfBirth</key>
+                <date>1949-10-06T08:00:00Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string>Richmond, Virginia</string>
+                <key>name</key>
+                <string>Jim Gilmore</string>
+                <key>officialURL</key>
+                <string>http://www.gilmoreforamerica.com/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Methodist</string>
+                <key>sortName</key>
+                <string>gilmore, jim</string>
+                <key>twitterHandle</key>
+                <string>@gov_gilmore</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string>Born in Central, South Carolina, Graham graduated from the University of South Carolina in 1977. He received his Juris Doctor from the University of South Carolina School of Law in 1981. He served in the United States Air Force from 1982 to 1988 and served as a Guardsman first in the South Carolina Air National Guard then in the Air Force Reserves, attaining the rank of colonel. He worked as a lawyer in private practice before he was elected to the South Carolina House of Representatives in 1992. He then served in the United States House of Representatives, representing South Carolina's 3rd congressional district from 1995 to 2003. He has since been elected the Senator for South Carolina 3 times.</string>
+                <key>candidateKey</key>
+                <string>C10007</string>
+                <key>candidatePhoto</key>
+                <string>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lindsey_Graham%2C_Official_Portrait_2006.jpg/440px-Lindsey_Graham%2C_Official_Portrait_2006.jpg</string>
+                <key>currentTown</key>
+                <string>Seneca, South Carolina</string>
+                <key>dateOfBirth</key>
+                <date>1955-07-09T07:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#ReadyToLead</string>
+                </array>
+                <key>homeTown</key>
+                <string>Central, South Carolina</string>
+                <key>name</key>
+                <string>Lindsey Graham</string>
+                <key>officialURL</key>
+                <string>http://www.lindseygraham.com/</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Southern Baptist</string>
+                <key>sortName</key>
+                <string>graham, lindsey</string>
+                <key>twitterHandle</key>
+                <string>@LindseyGrahamSC</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10008</string>
+                <key>candidatePhoto</key>
+                <string>https://en.wikipedia.org/wiki/Mike_Huckabee#/media/File:Mike_Huckabee.jpg</string>
+                <key>currentTown</key>
+                <string>Santa Rosa Beach, Florida,</string>
+                <key>dateOfBirth</key>
+                <date>1955-08-24T07:00:00Z</date>
+                <key>hashTags</key>
+                <array>
+                    <string>#ImWithHuck</string>
+                </array>
+                <key>homeTown</key>
+                <string>Hope, Arkansas</string>
+                <key>name</key>
+                <string>Mike Huckabee</string>
+                <key>officialURL</key>
+                <string>https://mikehuckabee.com/home</string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string>Southern Baptist</string>
+                <key>sortName</key>
+                <string>huckabee, mike</string>
+                <key>twitterHandle</key>
+                <string>@GovMikeHuckabee</string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10009</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Bobby Jindal</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>jindal, bobby</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10010</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>John Kasich</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>kasich, john</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10011</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>George Pataki</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>pataki, george</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10012</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Rand Paul</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>paul, rand</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10013</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Rick Perry</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>perry, rick</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10014</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Marco Rubio</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>rubio, marco</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10015</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Rick Santorum</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>santorum, rick</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10016</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Donald Trump</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>trump, donald</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10017</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Scott Walker</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Republican</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>walker, scott</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10018</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Lincoln Chafee</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>chafee, lincoln</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10019</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Hillary Clinton</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>clinton, hillary</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10020</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Martin O’Malley</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>omalley, martin</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10021</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Bernie Sanders</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>sanders, bernie</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10022</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Jim Webb</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>webb, jim</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+            <dict>
+                <key>bio</key>
+                <string></string>
+                <key>candidateKey</key>
+                <string>C10023</string>
+                <key>candidatePhoto</key>
+                <string></string>
+                <key>currentTown</key>
+                <string></string>
+                <key>dateOfBirth</key>
+                <date>2015-08-13T02:35:28Z</date>
+                <key>hashTags</key>
+                <array/>
+                <key>homeTown</key>
+                <string></string>
+                <key>name</key>
+                <string>Joe Biden</string>
+                <key>officialURL</key>
+                <string></string>
+                <key>party</key>
+                <string>Democrat</string>
+                <key>religion</key>
+                <string></string>
+                <key>sortName</key>
+                <string>biden, joseph</string>
+                <key>twitterHandle</key>
+                <string></string>
+            </dict>
+        </array>
+    </dict>
+</plist>

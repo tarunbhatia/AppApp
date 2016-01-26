@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#cae6fb"
+    android:padding="6dip"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/candidateImageView"
+        android:layout_centerVertical="true"
+        android:paddingLeft="6px"
+        android:paddingRight="6px"
+        android:background="#cae6fb"
+        android:layout_gravity="center_horizontal" />
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:background="#cae6fb">>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Age "
+            android:textStyle="bold"
+            android:layout_below="@+id/candidateImageView"
+            android:id="@+id/candidateAgeTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Age"
+            android:layout_toRightOf="@id/candidateAgeTextView"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateAgeEditTextView" />
+        </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:background="#cae6fb">>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Residence "
+            android:textStyle="bold"
+            android:id="@+id/candidateResidenceTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Residence"
+            android:layout_toRightOf="@id/candidateResidenceTextView"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateEditResidenceEditTextView" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:background="#cae6fb">>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Hometown "
+            android:textStyle="bold"
+            android:id="@+id/candidateHometownTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hometown"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_toRightOf="@id/candidateHometownTextView"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateEditHomeTownTextView" />
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="4"
+        android:layout_column="0"
+        android:background="#cae6fb">>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Religion "
+            android:textStyle="bold"
+            android:id="@+id/candidateReligionTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Religion"
+            android:layout_toRightOf="@id/candidateReligionTextView"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:ellipsize="none"
+            android:singleLine="true"
+            android:id="@+id/candidateReligionEdiTextView" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:layout_row="5"
+        android:layout_column="0"
+        android:background="#cae6fb">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/emptyTxt1"
+            android:editable="false" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:layout_row="6"
+        android:layout_column="0"
+        android:background="#cae6fb">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold"
+            android:text="Website "
+            android:id="@+id/candidateHomePageTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Website"
+            android:id="@+id/candidateWebsite"
+            android:editable="false"
+            android:clickable="true"/>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:layout_row="7"
+        android:layout_column="0"
+        android:background="#cae6fb">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Twitter "
+            android:textStyle="bold"
+            android:id="@+id/candidateTwitterTextView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Twitter"
+            android:id="@+id/candidateTwitter"
+            android:editable="false"
+            android:clickable="true"/>
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:layout_row="8"
+        android:layout_column="0"
+        android:background="#cae6fb">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/emptyTxt2"
+            android:editable="false" />
+    </LinearLayout>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="true"
+        android:layout_row="9"
+        android:layout_column="0"
+        android:background="#cae6fb">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Candidate Bio"
+            android:id="@+id/candidateBioTextView"
+            android:editable="false" />
+    </LinearLayout>
+</LinearLayout>
